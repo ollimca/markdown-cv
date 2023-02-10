@@ -24,26 +24,38 @@ Missing data, dynamic categorical dynamic panel models
 ### Current
 `2022-    ` __University of Bergamo__,    Associate professor
 
-`2005-2022` __University of Luxembourg__, Associate professor
-
+### Previous
+`2005-2022` __University of Luxembourg__, Associate professor   
 `2004-2005` __Università della Svizzera Italiana__, Institute of Finance, Post-doc researcher
 
 ## Education
 
 `2000-2004`
-__Université catholique de Louvain__, PhD in Economics (Doctorat en sciences économiques)
-
+__Université catholique de Louvain__, PhD in Economics (Doctorat en sciences économiques)   
 `1999-2000`
-__Université catholique de Louvain__, MSc in Financial Economics (Diplôme d’études spécialisées en économie financière)
-
+__Université catholique de Louvain__, MSc in Financial Economics (Diplôme d’études spécialisées en économie financière)   
 `1992-1997`
 __Università degli studi di Pavia__, BSc in Physics	(Laurea in Fisica)
+
+## Administrative roles
+### At the University of Luxembourg
+
+`2012-2019`	Course director, Bachelor in Management (Bachelor en gestion, professionnel)   
+`2007-2011`	Course co-director (2007-2009) and director (2009-2011), Master of Science in Banking and Finance   
+`2009-2014`	Member of the University Council (Conseil universitaire)   
+`2007-2019` Member of the Faculty Council (Conseil facultaire), Faculty of Law, Economics and Finance   
+
+### Professional service
+`2014`	Member of the Group of Experts to establish the European Master in Official Statistics (https://ec.europa.eu/eurostat/cros/content/group-experts-2014_en)
 
 ## Ongoing projects
 - Missing endogenous variables in conditional moment restriction models. Joint with A. Kostyrka and G. Tripathi.
 - Sempiarametric indirect inference for binary dynamic panel data. Joint with F. Galli.
+- The archer in the mist. Joint with L. Panaccione
 
 ## PhD supervision
+
+#### Supervisor
 Andreï Victorovitch Kostyrka, 2021, University of Luxembourg. Joint supervision with Gautam Tripathi. Thesis title: “Efficient estimation with non-standard sampling or missing endogenous variables, and conditional density modelling with unobserved copula-connected shocks.”
 
 #### Memeber of the supervision committee (comité d’encadrement) at the University of Luxembourg
@@ -57,8 +69,6 @@ Marie Lambert (thesis supervisors G. Hubner and P.-A. Michel), Robert Vermeulen 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Journals
 
 1.	Cosma, A., S. Galluccio, P. Pederzoli, and O. Scaillet (2020). Early exercise decision in American options with dividends, stochastic volatility and jumps. Journal of Financial and Quantitative Analysis 55(1), 331–356. DOI: 10.1017/S0022109018001229. 
@@ -68,6 +78,7 @@ DOI: 10.1108/s0731-905320190000039010.
 DOI: 10.1016/j.jbankfin.2009.07.014. 
 4.	Cosma, A., O. Scaillet, and R. von Sachs (2007). Multivariate wavelet-based shape preserving estimation for dependent observations. Bernoulli 13(2). Open Access, 301–329. 
 DOI: 10.3150/07-bej5066. 
+
 
 
 ### Chapters in books
@@ -83,29 +94,31 @@ Cosma, A. Algorithmes et marchés d'options, D’Lëtzebuerger Land, January 3, 
 
 CIMEO Workshop in Experimental Economics(2022, Università di Roma la Sapienza, Italy), International Conference on Econometrics and Statistics (2019, Taichung, Taiwan), The Econometrics of Complex Survey Data: Theory and Applications (2017, Ottawa, Canada), European Finance Association (2016, Oslo, Norway), 14th Paris December Finance Meeting (2016, Paris, France), AFFI (2016, Liège, Belgium), Mathematical and Statistical Methods for Actuarial Sciences and Finance (2014, Salerno, Italy), Quantitative Economics Conference (QEC2013, Beijing, China), European Economic Association / Econometric Society (2011, Oslo, Norway), Mathematical and Statistical Methods for Actuarial Sciences and Finance (2010, Ravello, Italy), 6th World Congress of the Bachelier Finance Society (2010, Toronto, Canada), International Federation of Operational Research Societies Conference (2008, Sandton, South Africa), 25th European Meeting of Statisticians (2005, Oslo, Norway), Econometric Society World Congress (2005, London, UK).
 
-### Invited talks
+### (Recent) Invited talks
 Università di Roma 2, Tor Vergata, June 1, 2022\
 Università di Parma, April 5, 2022\
 Università di Roma 1, la Sapienza, March 18, 2022\
 Università di Milano-Bicocca, January 11, 2022\
 Università di Lugano, October 13, 2021
 
+## Editorial Activities
+### Referee
+Advances in Econometrics, Economie Internationale, Empirical Economics, Entropy, European Journal of Finance, Financial Markets and Portfolio Management, International Review of Economics and Finance, Journal of the American Statistical Association, Journal of Banking and Finance, Journal of Computational Finance, Journal of Derivatives, Journal of Econometrics, Journal of Financial Econometrics,  Journal of risk and financial management, Management Science, Risks, Stochastic Analysis and Applications, Studies in Nonlinear Dynamics & Econometrics, Sustainability, The Manchester School
 
 ## Teaching 
 
 _Course and program names are in the languages in which the course or program are taught_
 
-| Year           |	Institution                               |	Course                   | Program                                     | ECTS/ Hours   |
-|:---------------|:-------------------------------------------|:-------------------------|:--------------------------------------------|:--------------|
-| 2019-2022      | University of Luxembourg                   |	Statistics               | Master of Science in Finance and Economics  |	2/ 15        |
-| 2017-2022      | University of Luxembourg                   | Econometrics 2           | Master of Science in Finance and Economics  |	5/ 30        |  
-| 2015-2022      | University of Luxembourg                   |	Applied econometrics     | Master in Accounting and Audit              |	3/ 27        |
-| 2014-2022      | University of Luxembourg                   | Financial econometrics   | Master of Science in Finance and Economics  |  5/ 15        |
-| 2011-2022      | University of Luxembourg                   | Mathématiques I          | Bachelor en Sciences Économiques	           |  6/ 33        |
-| 2005-2010      | University of Luxembourg                   | Risk Management          | Master of Science in Banking and Finance	   |  3/ 30        |
-| 2005-2008      | University of Luxembourg                   |	Investments              | Master of Science in Banking and Finance    |	2/ 15        |
-| 2004           | Università della Svizzera Italiana         | Time Series              | Master of Science in             Finance    |  30 hours     |
-
+| Year               |	Institution                               |	Course                   | Program                                     | ECTS/ Hours   |
+|:------------       |:-------------------------------------------|:-------------------------|:--------------------------------------------|:--------------|
+| 2019&#x2011;2022   | University of Luxembourg                   |	Statistics               | Master of Science in Finance and Economics  |	2/ 15      |
+| 2017&#x2011;2022   | University of Luxembourg                   | Econometrics 2           | Master of Science in Finance and Economics  |	5/ 30      |  
+| 2015&#x2011;2022   | University of Luxembourg                   |	Applied econometrics     | Master in Accounting and Audit              |	3/ 27      |
+| 2014&#x2011;2022   | University of Luxembourg                   | Financial econometrics   | Master of Science in Finance and Economics  |  5/ 15        |
+| 2011&#x2011;2022   | University of Luxembourg                   | Mathématiques I          | Bachelor en Sciences Économiques	           |  6/ 33        |
+| 2005&#x2011;2010   | University of Luxembourg                   | Risk Management          | Master of Science in Banking and Finance	   |  3/ 30        |
+| 2005&#x2011;2008   | University of Luxembourg                   |	Investments              | Master of Science in Banking and Finance    |	2/ 15      |
+| 2004&#x2011;       | Università della Svizzera Italiana         | Time Series              | Master of Science in             Finance    |  30 hours     |
 
 <!-- ### Footer
 
