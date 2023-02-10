@@ -29,8 +29,8 @@ Missing data, dynamic categorical dynamic panel models
 `2004-2005` __Università della Svizzera Italiana__, Institute of Finance, Post-doc researcher
 
 ### Visiting
-`3/2022-4/2022`  Dipartimento di Economia e Diritto, Sapienza Università di Roma\
-`9/2021-12/2021` Institute of Finance, Università della Svizzera Italiana
+`3/2022- 4/2022` __Sapienza Università di Roma__, Dipartimento di Economia e Diritto \
+`9/2021-12/2021` __Università della Svizzera Italiana__, Institute of Finance
 
 ## Education
 
@@ -50,7 +50,10 @@ __Università degli studi di Pavia__, BSc in Physics	(Laurea in Fisica)
 `2007-2019` Member of the Faculty Council (Conseil facultaire), Faculty of Law, Economics and Finance   
 
 ### Professional service
-`2014`	Member of the Group of Experts to establish the European Master in Official Statistics (https://ec.europa.eu/eurostat/cros/content/group-experts-2014_en)
+`2016` Reviewer for the ANR (Agence Nationale de la Recherche) call	"Appel à projets générique"  
+`2014`	Member of the Group of Experts to establish the European Master in Official Statistics (https://ec.europa.eu/eurostat/cros/content/group-experts-2014_en)  
+
+
 
 ## Research
 
@@ -59,17 +62,25 @@ __Università degli studi di Pavia__, BSc in Physics	(Laurea in Fisica)
 - Sempiarametric indirect inference for binary dynamic panel data. Joint with F. Galli.
 - The archer in the mist. Joint with L. Panaccione
 
+### Grants
+
+| Year               |	Title                                       |	Funding Agency                   | Program                       |
+|:------------       |:-------------------------------------        |:---------------------------------|:------------------------------|
+| 2022	             | Experimental analysis of substitution effect |  La Sapienza Università di Roma  |	Visiting Professor Call      |
+| 2021	             | INDIFCAT                                     | Fonds National de la Recherche, Luxembourg | FNR-Inter Mobility  |
+
+
 ### PhD supervision
 
 #### Supervisor
 Andreï Victorovitch Kostyrka, 2021, University of Luxembourg. Joint supervision with Gautam Tripathi. Thesis title: “Efficient estimation with non-standard sampling or missing endogenous variables, and conditional density modelling with unobserved copula-connected shocks.”
 
 #### Memeber of the supervision committee (comité d’encadrement) at the University of Luxembourg
-Ongoing thesis:
-Sofia Borodich Suarez (supervisor G. Tripathi).
+_Ongoing thesis (Supervisor)_:
+Sofia Borodich Suarez  (G. Tripathi).
 
-Finished theses:
-Marie Lambert (thesis supervisors G. Hubner and P.-A. Michel), Robert Vermeulen (supervisors M. Beine and B. Candelon), Christian Pietsch (supervisor A. Müssig), Martin Schumann (supervisor G. Tripathi).
+_Finished theses (Supervisor)_:
+Martin Schumann (2017, G. Tripathi), Christian Pietsch (2015, A. Müssig), Marie Lambert (2010, G. Hubner and P.-A. Michel), Robert Vermeulen (2010, M. Beine and B. Candelon).
 
 
 ### Publications
