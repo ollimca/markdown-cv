@@ -81,17 +81,13 @@ Cosma, A. Algorithmes et marchés d'options, D’Lëtzebuerger Land, January 3, 
 
 ### Presentations at International Conferences
 
-International Conference on Econometrics and Statistics (2019, Taichung, Taiwan), The Econometrics of Complex Survey Data: Theory and Applications (2017, Ottawa, Canada), European Finance Association (2016, Oslo, Norway), 14th Paris December Finance Meeting (2016, Paris, France), AFFI (2016, Liège, Belgium), Mathematical and Statistical Methods for Actuarial Sciences and Finance (2014, Salerno, Italy), Quantitative Economics Conference (QEC2013, Beijing, China), European Economic Association / Econometric Society (2011, Oslo, Norway), Mathematical and Statistical Methods for Actuarial Sciences and Finance (2010, Ravello, Italy), 6th World Congress of the Bachelier Finance Society (2010, Toronto, Canada), International Federation of Operational Research Societies Conference (2008, Sandton, South Africa), 25th European Meeting of Statisticians (2005, Oslo, Norway), Econometric Society World Congress (2005, London, UK).
+CIMEO Workshop in Experimental Economics(2022, Università di Roma la Sapienza, Italy), International Conference on Econometrics and Statistics (2019, Taichung, Taiwan), The Econometrics of Complex Survey Data: Theory and Applications (2017, Ottawa, Canada), European Finance Association (2016, Oslo, Norway), 14th Paris December Finance Meeting (2016, Paris, France), AFFI (2016, Liège, Belgium), Mathematical and Statistical Methods for Actuarial Sciences and Finance (2014, Salerno, Italy), Quantitative Economics Conference (QEC2013, Beijing, China), European Economic Association / Econometric Society (2011, Oslo, Norway), Mathematical and Statistical Methods for Actuarial Sciences and Finance (2010, Ravello, Italy), 6th World Congress of the Bachelier Finance Society (2010, Toronto, Canada), International Federation of Operational Research Societies Conference (2008, Sandton, South Africa), 25th European Meeting of Statisticians (2005, Oslo, Norway), Econometric Society World Congress (2005, London, UK).
 
 ### Invited talks
-Università di Roma 2, Tor Vergata, June 1, 2022
-
-Università di Parma, April 5, 2022
-
-Università di Roma 1, la Sapienza, March 18, 2022
-
-Università di Milano-Bicocca, January 11, 2022
-
+Università di Roma 2, Tor Vergata, June 1, 2022\
+Università di Parma, April 5, 2022\
+Università di Roma 1, la Sapienza, March 18, 2022\
+Università di Milano-Bicocca, January 11, 2022\
 Università di Lugano, October 13, 2021
 
 
@@ -99,18 +95,16 @@ Università di Lugano, October 13, 2021
 
 _Course and program names are in the languages in which the course or program are taught_
 
-| <div style="width:6000px">Year</div> |	Institution |	Course | program |	ECTS/ Hours |
-| :---------------------| :----------- | :----------- | :-------- |:--------- |
-| 2019 - 2022| University of Luxembourg |	Statistics | Master of Science in Finance and Economics |	2/ 15 |
-| 2017 -	2022| University of Luxembourg	| Econometrics 2 | Master of Science in Finance and Economics |	5/ 30 |
-| 2015 -	2022| University of Luxembourg |	Applied econometrics | Master in Accounting and Audit |	3/ 27 |
-2014 -	2022| University of Luxembourg	| Financial econometrics | Master of Science in Finance and Economics	| 5/ 15|
-2011 -	2022 | University of Luxembourg	 |Mathématiques I | Bachelor en Sciences Économiques	| 6/ 33|
-|2010 – 2012 |	University of Luxembourg |	Research methods seminar for writing the Master thesis and the Internship report | Master of Science in Banking and Finance |	6 hours |
-|2005 - 2010	| University of Luxembourg	| Risk Management | Master of Science in Banking and Finance	 |3/ 30|
-|2005 - 2008	| University of Luxembourg |	Investments | Master of Science in Banking and Finance |	2/ 15 |
-| 2004  |	Università della Svizzera Italiana	|Time Series|	30 hours|
-
+| Year           |	Institution                               |	Course                   | Program                                     | ECTS/ Hours   |
+|:---------------|:-------------------------------------------|:-------------------------|:--------------------------------------------|:--------------|
+| 2019-2022      | University of Luxembourg                   |	Statistics               | Master of Science in Finance and Economics  |	2/ 15        |
+| 2017-2022      | University of Luxembourg                   | Econometrics 2           | Master of Science in Finance and Economics  |	5/ 30        |  
+| 2015-2022      | University of Luxembourg                   |	Applied econometrics     | Master in Accounting and Audit              |	3/ 27        |
+| 2014-2022      | University of Luxembourg                   | Financial econometrics   | Master of Science in Finance and Economics  |  5/ 15        |
+| 2011-2022      | University of Luxembourg                   | Mathématiques I          | Bachelor en Sciences Économiques	           |  6/ 33        |
+| 2005-2010      | University of Luxembourg                   | Risk Management          | Master of Science in Banking and Finance	   |  3/ 30        |
+| 2005-2008      | University of Luxembourg                   |	Investments              | Master of Science in Banking and Finance    |	2/ 15        |
+| 2004           | Università della Svizzera Italiana         | Time Series              | Master of Science in             Finance    |  30 hours     |
 
 
 <!-- ### Footer
