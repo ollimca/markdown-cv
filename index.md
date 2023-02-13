@@ -87,18 +87,17 @@ Martin Schumann (2017, G. Tripathi), Christian Pietsch (2015, A. Müssig), Marie
 
 #### Journals
 
-`2020`Cosma, A., S. Galluccio, P. Pederzoli, and O. Scaillet (2020). Early exercise decision in American options with dividends, stochastic volatility and jumps. Journal of Financial and Quantitative Analysis 55(1), 331–356. DOI: 10.1017/S0022109018001229. \
-`2019`Cosma, A., A. V. Kostyrka, and G. Tripathi (2019). Inference in conditional moment restriction models when there is selection due to stratification. Advances in Econometrics 39 (titled The Econometrics of Complex Survey Data: Theory and Applications), 137–171. 
+`2020`  Cosma, A., S. Galluccio, P. Pederzoli, and O. Scaillet (2020). Early exercise decision in American options with dividends, stochastic volatility and jumps. _Journal of Financial and Quantitative Analysis 55(1), 331–356_. DOI: 10.1017/S0022109018001229. \
+`2019`  Cosma, A., A. V. Kostyrka, and G. Tripathi (2019). Inference in conditional moment restriction models when there is selection due to stratification. _Advances in Econometrics 39 (titled The Econometrics of Complex Survey Data: Theory and Applications), 137–171_. 
 DOI: 10.1108/s0731-905320190000039010. \
-`2010` Beine, M., A. Cosma, and R. Vermeulen (2010). The dark side of global integration: Increasing tail dependence. Journal of Banking & Finance 34(1), 184–192. DOI: 10.1016/j.jbankfin.2009.07.014. \ 
-`2007` Cosma, A., O. Scaillet, and R. von Sachs (2007). Multivariate wavelet-based shape preserving estimation for dependent observations. Bernoulli 13(2). Open Access, 301–329. DOI: 10.3150/07-bej5066. 
+`2010` Beine, M., A. Cosma, and R. Vermeulen (2010). The dark side of global integration: Increasing tail dependence. _Journal of Banking & Finance_ 34(1), 184–192. DOI: 10.1016/j.jbankfin.2009.07.014. \
+`2007` Cosma, A., O. Scaillet, and R. von Sachs (2007). Multivariate wavelet-based shape preserving estimation for dependent observations. _Bernoulli 13(2)_. Open Access, 301–329. DOI: 10.3150/07-bej5066. 
 
 
 
 #### Chapters in books
-
-	Cosma, A. and F. Galli (2019). A nonparametric ACD model. In: Financial Mathematics, Volatility and Covariance Modelling. Ed. by J. Chevalier, S. Goutte, D. Guerreiro, S. Saglio, and B. Sanhaji. Vol. 2. Routledge Advances in Applied Financial Economics. Routledge, Taylor & Francis, London. Chap. 5, pp.122–144, DOI: 10.4324/9781315162737.
-	Cosma, A. and M. Lambert (2009). Diversification properties of Funds of Hedge Funds for Luxembourg’s marketplace. In: Finance et Valeurs. Ed. by A. Corhay, G. Hubner, and A. Muller. Les Editions de l’Université de Liège. pp. 237–255. ISBN 9782874561054
+- Cosma, A. and F. Galli (2019). A nonparametric ACD model. In: _Financial Mathematics, Volatility and Covariance Modelling_. Ed. by J. Chevalier, S. Goutte, D. Guerreiro, S. Saglio, and B. Sanhaji. Vol. 2. Routledge Advances in Applied Financial Economics. Routledge, Taylor & Francis, London. Chap. 5, pp.122–144, DOI: 10.4324/9781315162737.
+- Cosma, A. and M. Lambert (2009). Diversification properties of Funds of Hedge Funds for Luxembourg’s marketplace. In: _Finance et Valeurs_. Ed. by A. Corhay, G. Hubner, and A. Muller. Les Editions de l’Université de Liège. pp. 237–255. ISBN 9782874561054
 
 #### Other Publications and Articles for General Public
 
