@@ -56,7 +56,7 @@ __Università degli studi di Pavia__, BSc in Physics	(Laurea in Fisica)
 
 
 
-## Research
+## _Research_
 
 ## Ongoing projects
 - Missing endogenous variables in conditional moment restriction models. Joint with A. Kostyrka and G. Tripathi.
@@ -65,33 +65,8 @@ __Università degli studi di Pavia__, BSc in Physics	(Laurea in Fisica)
 
 ## Grants
 
-<table>
-  <tr>
-    <th>Year</th>
-    <th>Title</th>
-    <th>Funding Agency</th>
-    <th>Program</th>
-  </tr>
-  <tr>
-    <th>2022</th>
-    <th>Experimental analysis of substitution effect</th>
-    <th>La Sapienza Università di Roma</th>
-    <th>Visiting Professor Call  </th>
-  </tr>
-  <tr>
-    <th>2021</th>
-    <th>INDIFCAT</th>
-    <th>Fonds National de la Recherche, Luxembourg </th>
-    <th> FNR-Inter Mobility</th>
-  </tr>
-</table>
-
-<!--
-| Year               |	Title                                       |	Funding Agency                   | Program                       |
-|:------------       |:-------------------------------------        |:---------------------------------|:------------------------------|
-| 2022	             | Experimental analysis of substitution effect |  La Sapienza Università di Roma  |	Visiting Professor Call      |
-| 2021	             | INDIFCAT                                     | Fonds National de la Recherche, Luxembourg | FNR-Inter Mobility  |
---!>
+`2022`	             Experimental analysis of substitution effect,   La Sapienza Università di Roma,	Visiting Professor Call  
+`2021`	              INDIFCAT,                                      Fonds National de la Recherche, Luxembourg, FNR-Inter Mobility  
 
 ## PhD supervision
 
@@ -107,7 +82,7 @@ Martin Schumann (2017, G. Tripathi), Christian Pietsch (2015, A. Müssig), Marie
 
 ## Publications
 
-### Journals
+## Journals
 - Cosma, A., S. Galluccio, P. Pederzoli, and O. Scaillet (2020). Early exercise decision in American options with dividends, stochastic volatility and jumps. _Journal of Financial and Quantitative Analysis 55(1), 331–356_. DOI: 10.1017/S0022109018001229. \
 - Cosma, A., A. V. Kostyrka, and G. Tripathi (2019). Inference in conditional moment restriction models when there is selection due to stratification. _Advances in Econometrics 39 (titled The Econometrics of Complex Survey Data: Theory and Applications), 137–171_. 
 DOI: 10.1108/s0731-905320190000039010. \
@@ -116,27 +91,27 @@ DOI: 10.1108/s0731-905320190000039010. \
 
 
 
-### Chapters in books
+## Chapters in books
 - Cosma, A. and F. Galli (2019). A nonparametric ACD model. In: _Financial Mathematics, Volatility and Covariance Modelling_. Ed. by J. Chevalier, S. Goutte, D. Guerreiro, S. Saglio, and B. Sanhaji. Vol. 2. Routledge Advances in Applied Financial Economics. Routledge, Taylor & Francis, London. Chap. 5, pp.122–144, DOI: 10.4324/9781315162737.
 - Cosma, A. and M. Lambert (2009). Diversification properties of Funds of Hedge Funds for Luxembourg’s marketplace. In: _Finance et Valeurs_. Ed. by A. Corhay, G. Hubner, and A. Muller. Les Editions de l’Université de Liège. pp. 237–255. ISBN 9782874561054
 
-### Other Publications and Articles for General Public
+## Other Publications and Articles for General Public
 
 Cosma, A. Algorithmes et marchés d'options, D’Lëtzebuerger Land, January 3, 2014.
 
-### Presentations at International Conferences
+## Presentations at International Conferences
 
 CIMEO Workshop in Experimental Economics(2022, Università di Roma la Sapienza, Italy), International Conference on Econometrics and Statistics (2019, Taichung, Taiwan), The Econometrics of Complex Survey Data: Theory and Applications (2017, Ottawa, Canada), European Finance Association (2016, Oslo, Norway), 14th Paris December Finance Meeting (2016, Paris, France), AFFI (2016, Liège, Belgium), Mathematical and Statistical Methods for Actuarial Sciences and Finance (2014, Salerno, Italy), Quantitative Economics Conference (QEC2013, Beijing, China), European Economic Association / Econometric Society (2011, Oslo, Norway), Mathematical and Statistical Methods for Actuarial Sciences and Finance (2010, Ravello, Italy), 6th World Congress of the Bachelier Finance Society (2010, Toronto, Canada), International Federation of Operational Research Societies Conference (2008, Sandton, South Africa), 25th European Meeting of Statisticians (2005, Oslo, Norway), Econometric Society World Congress (2005, London, UK).
 
-### (Recent) Invited talks
+## (Recent) Invited talks
 Università di Roma 2, Tor Vergata, June 1, 2022\
 Università di Parma, April 5, 2022\
 Università di Roma, la Sapienza, March 18, 2022\
 Università di Milano-Bicocca, January 11, 2022\
 Università di Lugano, October 13, 2021
 
-### Editorial Activities
-### Referee
+## Editorial Activities
+## Referee
 Advances in Econometrics, Economie Internationale, Empirical Economics, Entropy, European Journal of Finance, Financial Markets and Portfolio Management, International Review of Economics and Finance, Journal of the American Statistical Association, Journal of Banking and Finance, Journal of Computational Finance, Journal of Derivatives, Journal of Econometrics, Journal of Financial Econometrics,  Journal of risk and financial management, Management Science, Risks, Stochastic Analysis and Applications, Studies in Nonlinear Dynamics & Econometrics, Sustainability, The Manchester School
 
 ## Teaching 
