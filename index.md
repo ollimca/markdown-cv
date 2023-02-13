@@ -114,7 +114,7 @@ Università di Lugano, October 13, 2021
 ## Referee
 Advances in Econometrics, Economie Internationale, Empirical Economics, Entropy, European Journal of Finance, Financial Markets and Portfolio Management, International Review of Economics and Finance, Journal of the American Statistical Association, Journal of Banking and Finance, Journal of Computational Finance, Journal of Derivatives, Journal of Econometrics, Journal of Financial Econometrics,  Journal of risk and financial management, Management Science, Risks, Stochastic Analysis and Applications, Studies in Nonlinear Dynamics & Econometrics, Sustainability, The Manchester School
 
-## Teaching 
+## _Teaching_ 
 
 _Course and program names are in the languages in which the course or program are taught_
 
