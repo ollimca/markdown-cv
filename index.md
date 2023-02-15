@@ -80,7 +80,7 @@ Sofia Borodich Suarez  (G. Tripathi).
 Martin Schumann (2017, G. Tripathi), Christian Pietsch (2015, A. Müssig), Marie Lambert (2010, G. Hubner and P.-A. Michel), Robert Vermeulen (2010, M. Beine and B. Candelon).
 
 
-## Publications
+## _Publications_
 
 ## Journals
 - Cosma, A., S. Galluccio, P. Pederzoli, and O. Scaillet (2020). Early exercise decision in American options with dividends, stochastic volatility and jumps. _Journal of Financial and Quantitative Analysis 55(1), 331–356_. DOI: 10.1017/S0022109018001229. \
