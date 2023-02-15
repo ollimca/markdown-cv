@@ -116,21 +116,19 @@ Advances in Econometrics, Economie Internationale, Empirical Economics, Entropy,
 
 ## _Teaching_ 
 
-_Course and program names are in the languages in which the course or program are taught_
+_Course and program names are in the languages in which the course or program are taught. In parentheses (ECTS, hours)_
 
-| Year               |	Institution                               |	Course                   | Program                                     | ECTS/ Hours   |
-|:------------       |:-------------------------------------------|:-------------------------|:--------------------------------------------|:------------|
-| 2019&#x2011;2022   | Università degli studi di Bergamo          |	Elementi di matematica   | Economia aziendale                          |	9/ 72      |
-| 2019&#x2011;2022   | Università degli studi di Bergamo          |	Strumenti per la misurazione del rischio e delle performance aziendali    | Economia aziendale                          |	6/ 48      |
-|                    |                                            |  |             |                          |             | 
-| 2019&#x2011;2022   | University of Luxembourg                   |	Statistics               | Master of Science in Finance and Economics  |	2/ 15      |
-| 2017&#x2011;2022   | University of Luxembourg                   | Econometrics 2           | Master of Science in Finance and Economics  |	5/ 30      |  
-| 2015&#x2011;2022   | University of Luxembourg                   |	Applied econometrics     | Master in Accounting and Audit              |	3/ 27      |
-| 2014&#x2011;2022   | University of Luxembourg                   | Financial econometrics   | Master of Science in Finance and Economics  |  5/ 15      |
-| 2011&#x2011;2022   | University of Luxembourg                   | Mathématiques I          | Bachelor en Sciences Économiques	           |  6/ 33      |
-| 2005&#x2011;2010   | University of Luxembourg                   | Risk Management          | Master of Science in Banking and Finance	   |  3/ 30      |
-| 2005&#x2011;2008   | University of Luxembourg                   |	Investments              | Master of Science in Banking and Finance    |	2/ 15      |
-| 2004&#x2011;       | Università della Svizzera Italiana         | Time Series              | Master of Science in             Finance    |  30 hours   |
+`2019-2022` Elementi di matematica   												, Economia aziendale                         ,	(9/ 72), Università degli studi di Bergamo  
+`2019-2022` Strumenti per la misurazione del rischio e delle performance aziendali ,  Economia aziendale                         ,	(6/ 48), Università degli studi di Bergamo  
+`2019-2022` Statistics               												, Master of Science in Finance and Economics ,	(2/ 15), University of Luxembourg           
+`2017-2022` Econometrics 2           												, Master of Science in Finance and Economics ,	(5/ 30), University of Luxembourg           
+`2015-2022` Applied econometrics    												,  Master in Accounting and Audit            ,	(3/ 27), University of Luxembourg           
+`2014-2022` Financial econometrics  												,  Master of Science in Finance and Economics, 	(5/ 15) , University of Luxembourg           
+`2011-2022` Mathématiques I         												,  Bachelor en Sciences Économiques	       ,  	(6	/ 33)  , University of Luxembourg           
+`2005-2010` Risk Management         												,  Master of Science in Banking and Finance	,  	(3/ 30)  , University of Luxembourg           
+`2005-2008` Investments             												,  Master of Science in Banking and Finance  ,	(2/ 15)  , University of Luxembourg           
+`2004-    ` Time Series             												,  Master of Science in             Finance  ,	( 30 hours) ,  Università della Svizzera Italiana  
+
 
 <!-- ### Footer
 
