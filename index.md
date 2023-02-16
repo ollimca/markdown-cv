@@ -4,7 +4,6 @@ title: Antonio Cosma's CV
 ---
 # Antonio Cosma
 
-Former Physicist, Econometrician, professor in Bergamo, and a good lad.
 
 <div id="webaddress">
 <a href="https://didattica-rubrica.unibg.it/ugov/person/137228">https://didattica-rubrica.unibg.it/ugov/person/137228</a>
@@ -114,7 +113,7 @@ Università di Lugano, October 13, 2021
 ## Referee
 Advances in Econometrics, Economie Internationale, Empirical Economics, Entropy, European Journal of Finance, Financial Markets and Portfolio Management, International Review of Economics and Finance, Journal of the American Statistical Association, Journal of Banking and Finance, Journal of Computational Finance, Journal of Derivatives, Journal of Econometrics, Journal of Financial Econometrics,  Journal of risk and financial management, Management Science, Risks, Stochastic Analysis and Applications, Studies in Nonlinear Dynamics & Econometrics, Sustainability, The Manchester School
 
-## _Teaching_ 
+## _Teaching Experience_ 
 
 _Course and program names are in the languages in which the course or program are taught. In parentheses (ECTS, hours)_
 
@@ -132,6 +131,6 @@ _Course and program names are in the languages in which the course or program ar
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2023 -->
 
 
