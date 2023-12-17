@@ -6,7 +6,7 @@ title: Antonio Cosma's CV
 
 
 <div id="webaddress">
-<a href="https://didattica-rubrica.unibg.it/ugov/person/137228">https://didattica-rubrica.unibg.it/ugov/person/137228</a>
+<a href="https://unibg.unifind.cineca.it/individual?uri=http%3A%2F%2Firises.unibg.it%2Fresource%2Fperson%2F137228"></a>
 | <a href="https://orcid.org/my-orcid?orcid=0000-0002-2455-9760">My ORCID page</a>
 </div>
 
