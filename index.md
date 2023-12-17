@@ -6,7 +6,7 @@ title: Antonio Cosma's CV
 
 
 <div id="webaddress">
-<a href="https://unibg.unifind.cineca.it/individual?uri=http%3A%2F%2Firises.unibg.it%2Fresource%2Fperson%2F137228"></a>
+<a href="https://unibg.unifind.cineca.it/individual?uri=http%3A%2F%2Firises.unibg.it%2Fresource%2Fperson%2F137228">My UniBG page</a>
 | <a href="https://orcid.org/my-orcid?orcid=0000-0002-2455-9760">My ORCID page</a>
 </div>
 
@@ -100,7 +100,7 @@ Cosma, A. Algorithmes et marchés d'options, D’Lëtzebuerger Land, January 3, 
 
 ## Presentations at International Conferences
 
-CIMEO Workshop in Experimental Economics(2022, Università di Roma la Sapienza, Italy), International Conference on Econometrics and Statistics (2019, Taichung, Taiwan), The Econometrics of Complex Survey Data: Theory and Applications (2017, Ottawa, Canada), European Finance Association (2016, Oslo, Norway), 14th Paris December Finance Meeting (2016, Paris, France), AFFI (2016, Liège, Belgium), Mathematical and Statistical Methods for Actuarial Sciences and Finance (2014, Salerno, Italy), Quantitative Economics Conference (QEC2013, Beijing, China), European Economic Association / Econometric Society (2011, Oslo, Norway), Mathematical and Statistical Methods for Actuarial Sciences and Finance (2010, Ravello, Italy), 6th World Congress of the Bachelier Finance Society (2010, Toronto, Canada), International Federation of Operational Research Societies Conference (2008, Sandton, South Africa), 25th European Meeting of Statisticians (2005, Oslo, Norway), Econometric Society World Congress (2005, London, UK).
+EEA-ESEM (2023,Barcelona School of Economics, Barcelona, Spain), 6th International Conference on Econometrics and Statistics (2023, Waseda University, Tokyo, Japan), CIMEO Workshop in Experimental Economics(2022, Università di Roma la Sapienza, Italy), International Conference on Econometrics and Statistics (2019, Taichung, Taiwan), The Econometrics of Complex Survey Data: Theory and Applications (2017, Ottawa, Canada), European Finance Association (2016, Oslo, Norway), 14th Paris December Finance Meeting (2016, Paris, France), AFFI (2016, Liège, Belgium), Mathematical and Statistical Methods for Actuarial Sciences and Finance (2014, Salerno, Italy), Quantitative Economics Conference (QEC2013, Beijing, China), European Economic Association / Econometric Society (2011, Oslo, Norway), Mathematical and Statistical Methods for Actuarial Sciences and Finance (2010, Ravello, Italy), 6th World Congress of the Bachelier Finance Society (2010, Toronto, Canada), International Federation of Operational Research Societies Conference (2008, Sandton, South Africa), 25th European Meeting of Statisticians (2005, Oslo, Norway), Econometric Society World Congress (2005, London, UK).
 
 ## (Recent) Invited talks
 Università di Roma 2, Tor Vergata, June 1, 2022\
