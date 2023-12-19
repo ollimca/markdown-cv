@@ -117,8 +117,8 @@ Advances in Econometrics, Economie Internationale, Empirical Economics, Entropy,
 
 _Course and program names are in the languages in which the course or program are taught. In parentheses (ECTS, hours)_
 
-`2019-2022` Elementi di matematica   												, Economia aziendale                         ,	(9/ 72), Università degli studi di Bergamo  
-`2019-2022` Strumenti per la misurazione del rischio e delle performance aziendali ,  Economia aziendale                         ,	(6/ 48), Università degli studi di Bergamo  
+`2022-` Elementi di matematica   												, Economia aziendale                         ,	(9/ 72), Università degli studi di Bergamo  
+`2022-` Strumenti per la misurazione del rischio e delle performance aziendali ,  Economia aziendale                         ,	(6/ 48), Università degli studi di Bergamo  
 `2019-2022` Statistics               												, Master of Science in Finance and Economics ,	(2/ 15), University of Luxembourg           
 `2017-2022` Econometrics 2           												, Master of Science in Finance and Economics ,	(5/ 30), University of Luxembourg           
 `2015-2022` Applied econometrics    												,  Master in Accounting and Audit            ,	(3/ 27), University of Luxembourg           
