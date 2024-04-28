@@ -41,7 +41,7 @@ __Université catholique de Louvain__, MSc in Financial Economics (Diplôme d’
 `1992-1997`
 __Università degli studi di Pavia__, BSc in Physics	(Laurea in Fisica)
 
-## Administrative roles
+## Service
 ### At the University of Luxembourg
 
 `2012-2019`	Course director, Bachelor in Management (Bachelor en gestion, professionnel)   
