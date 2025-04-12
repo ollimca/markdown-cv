@@ -111,7 +111,7 @@ Università di Lugano, October 13, 2021
 
 ## Editorial Activities
 ## Referee
-Advances in Econometrics, Economie Internationale, Empirical Economics, Entropy, European Journal of Finance, Financial Markets and Portfolio Management, International Review of Economics and Finance, Journal of the American Statistical Association, Journal of Banking and Finance, Journal of Computational Finance, Journal of Derivatives, Journal of Econometrics, Journal of Financial Econometrics,  Journal of risk and financial management, Management Science, Northern American Journal of Economics and Finance, Risks, Stochastic Analysis and Applications, Studies in Nonlinear Dynamics & Econometrics, Sustainability, The Manchester School
+Advances in Econometrics, Economic Modelling, Economie Internationale, Empirical Economics, Entropy, European Journal of Finance, Financial Markets and Portfolio Management, International Review of Economics and Finance, Journal of the American Statistical Association, Journal of Banking and Finance, Journal of Computational Finance, Journal of Derivatives, Journal of Econometrics, Journal of Financial Econometrics,  Journal of risk and financial management, Management Science, Northern American Journal of Economics and Finance, Risks, Stochastic Analysis and Applications, Studies in Nonlinear Dynamics & Econometrics, Sustainability, The Manchester School
 
 ## _Teaching Experience_ 
 
