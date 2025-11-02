@@ -119,6 +119,7 @@ Advances in Econometrics, Economic Modelling, Economie Internationale, Empirical
 
 _Course and program names are in the languages in which the course or program are taught. In parentheses (ECTS, hours)_
 
+`2024-` Quantitative Research Module: Panel Analysis    , Doctoral School, Management Accounting and Finance, (4 ore) , Università degli studi di Bergamo
 `2022-` Elementi di matematica   												, Economia aziendale                         ,	(9/ 72), Università degli studi di Bergamo  
 `2022-` Strumenti per la misurazione del rischio e delle performance aziendali ,  Economia aziendale                         ,	(6/ 48), Università degli studi di Bergamo  
 `2019-2022` Statistics               												, Master of Science in Finance and Economics ,	(2/ 15), University of Luxembourg           
@@ -128,7 +129,7 @@ _Course and program names are in the languages in which the course or program ar
 `2011-2022` Mathématiques I         												,  Bachelor en Sciences Économiques	       ,  	(6	/ 33)  , University of Luxembourg           
 `2005-2010` Risk Management         												,  Master of Science in Banking and Finance	,  	(3/ 30)  , University of Luxembourg           
 `2005-2008` Investments             												,  Master of Science in Banking and Finance  ,	(2/ 15)  , University of Luxembourg           
-`2004-    ` Time Series             												,  Master of Science in             Finance  ,	( 30 hours) ,  Università della Svizzera Italiana  
+`2004-    ` Time Series             												,  Master of Science in             Finance  ,	( 30 ore) ,  Università della Svizzera Italiana  
 
 
 <!-- ### Footer
