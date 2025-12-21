@@ -58,7 +58,6 @@ __Università degli studi di Pavia__, BSc in Physics	(Laurea in Fisica)
 ## _Research_
 
 ## Ongoing projects
-- Missing endogenous variables in conditional moment restriction models. Joint with A. Kostyrka and G. Tripathi. _Under review._
 - The archer in the mist. Joint with L. Panaccione. _Under review._
 - Sempiarametric indirect inference for binary dynamic panel data. Joint with F. Galli.
 
@@ -84,8 +83,9 @@ Martin Schumann (2017, G. Tripathi), Christian Pietsch (2015, A. Müssig), Marie
 ## _Publications_
 
 ## Journals
+- Missing endogenous variables in conditional moment restriction models. Joint with A. Kostyrka and G. Tripathi. _Journal of Business & Economic Statistics._ Forthcoming
 - Cosma, A., S. Galluccio, P. Pederzoli, and O. Scaillet (2020). Early exercise decision in American options with dividends, stochastic volatility and jumps. _Journal of Financial and Quantitative Analysis 55(1), 331–356_. DOI: 10.1017/S0022109018001229.  
-- Cosma, A., A. V. Kostyrka, and G. Tripathi (2019). Inference in conditional moment restriction models when there is selection due to stratification. _Advances in Econometrics 39 (titled The Econometrics of Complex Survey Data: Theory and Applications), 137–171_. 
+- Cosma, A., A. V. Kostyrka, and G. Tripathi (2019). Inference in conditional moment restriction models when there is selection due to stratification. _Advances in Econometrics 39 (titled The Econometrics of Complex Survey Data: Theory and Applications)_, 137–171. 
 DOI: 10.1108/s0731-905320190000039010.  
 - Beine, M., A. Cosma, and R. Vermeulen (2010). The dark side of global integration: Increasing tail dependence. _Journal of Banking & Finance_ 34(1), 184–192. DOI: 10.1016/j.jbankfin.2009.07.014.  
 - Cosma, A., O. Scaillet, and R. von Sachs (2007). Multivariate wavelet-based shape preserving estimation for dependent observations. _Bernoulli 13(2)_. Open Access, 301–329. DOI: 10.3150/07-bej5066. 
