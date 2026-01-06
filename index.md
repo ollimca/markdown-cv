@@ -74,16 +74,15 @@ __Università degli studi di Pavia__, BSc in Physics	(Laurea in Fisica)
 
 ### Memeber of the supervision committee (comité d’encadrement) at the University of Luxembourg
 - _Ongoing thesis (Supervisor)_:
-Sofia Borodich Suarez  (G. Tripathi).
 Adrien Boulanger (G. Tripathi).
 - _Finished theses (Supervisor)_:
-Martin Schumann (2017, G. Tripathi), Christian Pietsch (2015, A. Müssig), Marie Lambert (2010, G. Hubner and P.-A. Michel), Robert Vermeulen (2010, M. Beine and B. Candelon).
+Sofia Borodich Suarez  (G. Tripathi and M. Schumann), Martin Schumann (2017, G. Tripathi), Christian Pietsch (2015, A. Müssig), Marie Lambert (2010, G. Hubner and P.-A. Michel), Robert Vermeulen (2010, M. Beine and B. Candelon).
 
 
 ## _Publications_
 
 ## Journals
-- Missing endogenous variables in conditional moment restriction models. Joint with A. Kostyrka and G. Tripathi. _Journal of Business & Economic Statistics._ Forthcoming
+- Missing endogenous variables in conditional moment restriction models. Joint with A. Kostyrka and G. Tripathi. _Journal of Business & Economic Statistics._ Forthcoming.
 - Cosma, A., S. Galluccio, P. Pederzoli, and O. Scaillet (2020). Early exercise decision in American options with dividends, stochastic volatility and jumps. _Journal of Financial and Quantitative Analysis 55(1), 331–356_. DOI: 10.1017/S0022109018001229.  
 - Cosma, A., A. V. Kostyrka, and G. Tripathi (2019). Inference in conditional moment restriction models when there is selection due to stratification. _Advances in Econometrics 39 (titled The Econometrics of Complex Survey Data: Theory and Applications)_, 137–171. 
 DOI: 10.1108/s0731-905320190000039010.  
@@ -119,17 +118,17 @@ Advances in Econometrics, Economic Modelling, Economie Internationale, Empirical
 
 _Course and program names are in the languages in which the course or program are taught. In parentheses (ECTS, hours)_
 
-`2024-` Quantitative Research Module: Panel Analysis    , Doctoral School, Management Accounting and Finance, (4 ore) , Università degli studi di Bergamo
+`2024-` Quantitative Research Module: Panel Analysis    , Doctoral School in Management Accounting and Finance, (4 hours) , Università degli studi di Bergamo  
 `2022-` Elementi di matematica   												, Economia aziendale                         ,	(9/ 72), Università degli studi di Bergamo  
 `2022-` Strumenti per la misurazione del rischio e delle performance aziendali ,  Economia aziendale                         ,	(6/ 48), Università degli studi di Bergamo  
 `2019-2022` Statistics               												, Master of Science in Finance and Economics ,	(2/ 15), University of Luxembourg           
 `2017-2022` Econometrics 2           												, Master of Science in Finance and Economics ,	(5/ 30), University of Luxembourg           
 `2015-2022` Applied econometrics    												,  Master in Accounting and Audit            ,	(3/ 27), University of Luxembourg           
 `2014-2022` Financial econometrics  												,  Master of Science in Finance and Economics, 	(5/ 15) , University of Luxembourg           
-`2011-2022` Mathématiques I         												,  Bachelor en Sciences Économiques	       ,  	(6	/ 33)  , University of Luxembourg           
+`2011-2022` Mathématiques I         												,  Bachelor en Sciences Économiques	       ,  	(6/ 33)  , University of Luxembourg           
 `2005-2010` Risk Management         												,  Master of Science in Banking and Finance	,  	(3/ 30)  , University of Luxembourg           
 `2005-2008` Investments             												,  Master of Science in Banking and Finance  ,	(2/ 15)  , University of Luxembourg           
-`2004-    ` Time Series             												,  Master of Science in             Finance  ,	( 30 ore) ,  Università della Svizzera Italiana  
+`2004-    ` Time Series             												,  Master of Science in             Finance  ,	(30 hours) ,  Università della Svizzera Italiana  
 
 
 <!-- ### Footer
