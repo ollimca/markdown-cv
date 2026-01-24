@@ -55,12 +55,15 @@ __Università degli studi di Pavia__, BSc in Physics	(Laurea in Fisica)
 
 
 
-## _Research_
+## **Research**
 
 ## Ongoing projects
-- The archer in the mist. Joint with L. Panaccione. _Under review._
-- Sempiarametric indirect inference for binary dynamic panel data. Joint with F. Galli.
 
+- The archer in the mist. Joint with L. Panaccione. _(Revise and resubmit at the Italian Economic Journal)._
+- Semiparametric indirect inference for binary dynamic panel data. Joint with F. Galli.
+
+
+<div style="page-break-before: always;"></div>
 
 ## Grants
 
@@ -79,9 +82,9 @@ Adrien Boulanger (G. Tripathi).
 Sofia Borodich Suarez  (G. Tripathi and M. Schumann), Martin Schumann (2017, G. Tripathi), Christian Pietsch (2015, A. Müssig), Marie Lambert (2010, G. Hubner and P.-A. Michel), Robert Vermeulen (2010, M. Beine and B. Candelon).
 
 
-## _Publications_
+## Publications
 
-## Journals
+### Journals
 - Missing endogenous variables in conditional moment restriction models. Joint with A. Kostyrka and G. Tripathi. _Journal of Business & Economic Statistics._ Forthcoming.
 - Cosma, A., S. Galluccio, P. Pederzoli, and O. Scaillet (2020). Early exercise decision in American options with dividends, stochastic volatility and jumps. _Journal of Financial and Quantitative Analysis 55(1), 331–356_. DOI: 10.1017/S0022109018001229.  
 - Cosma, A., A. V. Kostyrka, and G. Tripathi (2019). Inference in conditional moment restriction models when there is selection due to stratification. _Advances in Econometrics 39 (titled The Econometrics of Complex Survey Data: Theory and Applications)_, 137–171. 
@@ -91,19 +94,22 @@ DOI: 10.1108/s0731-905320190000039010.
 
 
 
-## Chapters in books
+### Chapters in books
 - Cosma, A. and F. Galli (2019). A nonparametric ACD model. In: _Financial Mathematics, Volatility and Covariance Modelling_. Ed. by J. Chevalier, S. Goutte, D. Guerreiro, S. Saglio, and B. Sanhaji. Vol. 2. Routledge Advances in Applied Financial Economics. Routledge, Taylor & Francis, London. Chap. 5, pp.122–144, DOI: 10.4324/9781315162737.
 - Cosma, A. and M. Lambert (2009). Diversification properties of Funds of Hedge Funds for Luxembourg’s marketplace. In: _Finance et Valeurs_. Ed. by A. Corhay, G. Hubner, and A. Muller. Les Editions de l’Université de Liège. pp. 237–255. ISBN 9782874561054
 
-## Other Publications and Articles for General Public
+<div style="page-break-before: always;"></div>
+
+### Other Publications and Articles for General Public
 
 Cosma, A. Algorithmes et marchés d'options, D’Lëtzebuerger Land, January 3, 2014.
 
-## Presentations at International Conferences
+## Presentations 
+### International Conferences
 
 World Congress of the Econometric Society (2025, Seoul, Republic of Korea), EEA-ESEM (2023,Barcelona School of Economics, Barcelona, Spain), 6th International Conference on Econometrics and Statistics (2023, Waseda University, Tokyo, Japan), CIMEO Workshop in Experimental Economics(2022, Università di Roma la Sapienza, Italy), International Conference on Econometrics and Statistics (2019, Taichung, Taiwan), The Econometrics of Complex Survey Data: Theory and Applications (2017, Ottawa, Canada), European Finance Association (2016, Oslo, Norway), 14th Paris December Finance Meeting (2016, Paris, France), AFFI (2016, Liège, Belgium), Mathematical and Statistical Methods for Actuarial Sciences and Finance (2014, Salerno, Italy), Quantitative Economics Conference (QEC2013, Beijing, China), European Economic Association / Econometric Society (2011, Oslo, Norway), Mathematical and Statistical Methods for Actuarial Sciences and Finance (2010, Ravello, Italy), 6th World Congress of the Bachelier Finance Society (2010, Toronto, Canada), International Federation of Operational Research Societies Conference (2008, Sandton, South Africa), 25th European Meeting of Statisticians (2005, Oslo, Norway), Econometric Society World Congress (2005, London, UK).
 
-## (Recent) Invited talks
+### (Recent) Invited talks
 Università di Roma 2, Tor Vergata, June 1, 2022\
 Università di Parma, April 5, 2022\
 Università di Roma, la Sapienza, March 18, 2022\
@@ -111,13 +117,14 @@ Università di Milano-Bicocca, January 11, 2022\
 Università di Lugano, October 13, 2021
 
 ## Editorial Activities
-## Referee
+### Referee
 Advances in Econometrics, Economic Modelling, Economie Internationale, Empirical Economics, Entropy, European Journal of Finance, Financial Markets and Portfolio Management, International Review of Economics and Finance, Journal of the American Statistical Association, Journal of Banking and Finance, Journal of Computational Finance, Journal of Derivatives, Journal of Econometrics, Journal of Financial Econometrics,  Journal of risk and financial management, Management Science, Northern American Journal of Economics and Finance, Risks, Stochastic Analysis and Applications, Studies in Nonlinear Dynamics & Econometrics, Sustainability, The Manchester School
 
-## _Teaching Experience_ 
+## **Teaching Experience** 
 
 _Course and program names are in the languages in which the course or program are taught. In parentheses (ECTS, hours)_
 
+`2025` Méthodes d’identification en économétrie de panel     , Séminaires doctoraux en Economie, (10 hours) , Dakar Coopération universitaire Luxembourg-Afrique de l'Ouest   
 `2024-` Quantitative Research Module: Panel Analysis    , Doctoral School in Management Accounting and Finance, (4 hours) , Università degli studi di Bergamo  
 `2022-` Elementi di matematica   												, Economia aziendale                         ,	(9/ 72), Università degli studi di Bergamo  
 `2022-` Strumenti per la misurazione del rischio e delle performance aziendali ,  Economia aziendale                         ,	(6/ 48), Università degli studi di Bergamo  
@@ -128,7 +135,7 @@ _Course and program names are in the languages in which the course or program ar
 `2011-2022` Mathématiques I         												,  Bachelor en Sciences Économiques	       ,  	(6/ 33)  , University of Luxembourg           
 `2005-2010` Risk Management         												,  Master of Science in Banking and Finance	,  	(3/ 30)  , University of Luxembourg           
 `2005-2008` Investments             												,  Master of Science in Banking and Finance  ,	(2/ 15)  , University of Luxembourg           
-`2004-    ` Time Series             												,  Master of Science in             Finance  ,	(30 hours) ,  Università della Svizzera Italiana  
+`2004    ` Time Series             												,  Master of Science in             Finance  ,	(30 hours) ,  Università della Svizzera Italiana  
 
 
 <!-- ### Footer
