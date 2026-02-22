@@ -1,7 +1,6 @@
 markdown:   kramdown
 style:  davewhipp_ac
 exclude:
-  - oldstuff
   - .git
   - .gitignore
   - .jekyll-cache
