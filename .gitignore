@@ -1,2 +1,6 @@
+.DS_Store
+media/.DS_Store
+media/.Rhistory
 _site/
 .sass-cache/
+oldstuff/

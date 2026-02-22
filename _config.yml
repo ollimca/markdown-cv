@@ -1,2 +1,10 @@
 markdown:   kramdown
-style:  davewhipp
+style:  davewhipp_ac
+exclude:
+  - oldstuff
+  - .git
+  - .gitignore
+  - .jekyll-cache
+  - .DS_Store
+  - README.md
+  - LICENSE

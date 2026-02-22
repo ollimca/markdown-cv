@@ -9,6 +9,8 @@ title: Antonio Cosma's CV
 <a href="https://unibg.unifind.cineca.it/individual?uri=http%3A%2F%2Firises.unibg.it%2Fresource%2Fperson%2F137228">My UniBG page</a>
 | <a href="https://orcid.org/0000-0002-2455-9760">My ORCID page</a>
 </div>
+<br>
+
 
 
 ### Specialized in
@@ -42,7 +44,7 @@ __Université catholique de Louvain__, MSc in Financial Economics (Diplôme d’
 __Università degli studi di Pavia__, BSc in Physics	(Laurea in Fisica)
 
 ## Service
-### At the University of Luxembourg
+### University of Luxembourg
 
 `2012-2019`	Course director, Bachelor in Management (Bachelor en gestion, professionnel)   
 `2007-2011`	Course co-director (2007-2009) and director (2009-2011), Master of Science in Banking and Finance   
@@ -51,35 +53,32 @@ __Università degli studi di Pavia__, BSc in Physics	(Laurea in Fisica)
 
 ### Professional service
 `2016` Reviewer for the ANR (Agence Nationale de la Recherche) call	"Appel à projets générique"  
-`2014`	Member of the Group of Experts to establish the European Master in Official Statistics (https://ec.europa.eu/eurostat/cros/content/group-experts-2014_en)  
-
+`2014`	Member of the Group of Experts to establish the European Master in Official Statistics --
+ https://wayback.archive-it.org/12090/20231229031545/https://cros-legacy.ec.europa.eu/content/group-experts-2014_en
 
 
 ## **Research**
-
 ## Ongoing projects
 
 - The archer in the mist. Joint with L. Panaccione. _(Revise and resubmit at the Italian Economic Journal)._
 - Semiparametric indirect inference for binary dynamic panel data. Joint with F. Galli.
 
 
-<div style="page-break-before: always;"></div>
-
 ## Grants
 
 `2022`	             Experimental analysis of substitution effect,   La Sapienza Università di Roma,	Visiting Professor Call  
 `2021`	              INDIFCAT,                                      Fonds National de la Recherche, Luxembourg, FNR-Inter Mobility  
+
 
 ## PhD supervision
 
 ### Supervisor
 - Andreï Victorovitch Kostyrka, 2021, University of Luxembourg. Joint supervision with Gautam Tripathi. Thesis title: “Efficient estimation with non-standard sampling or missing endogenous variables, and conditional density modelling with unobserved copula-connected shocks.”
 
-### Memeber of the supervision committee (comité d’encadrement) at the University of Luxembourg
-- _Ongoing thesis (Supervisor)_:
-Adrien Boulanger (G. Tripathi).
-- _Finished theses (Supervisor)_:
-Sofia Borodich Suarez  (G. Tripathi and M. Schumann), Martin Schumann (2017, G. Tripathi), Christian Pietsch (2015, A. Müssig), Marie Lambert (2010, G. Hubner and P.-A. Michel), Robert Vermeulen (2010, M. Beine and B. Candelon).
+### PhD committee
+_Member of the supervision committee (comité d’encadrement) at the University of Luxembourg_:
+-  _Ongoing thesis (Supervisor)_: Adrien Boulanger (G. Tripathi).
+-  _Finished theses (Year of graduation, Supervisor)_: Sofia Borodich Suarez  (2025, G. Tripathi and M. Schumann), Martin Schumann (2017, G. Tripathi), Christian Pietsch (2015, A. Müssig), Marie Lambert (2010, G. Hubner and P.-A. Michel), Robert Vermeulen (2010, M. Beine and B. Candelon).
 
 
 ## Publications
@@ -98,9 +97,8 @@ DOI: 10.1108/s0731-905320190000039010.
 - Cosma, A. and F. Galli (2019). A nonparametric ACD model. In: _Financial Mathematics, Volatility and Covariance Modelling_. Ed. by J. Chevalier, S. Goutte, D. Guerreiro, S. Saglio, and B. Sanhaji. Vol. 2. Routledge Advances in Applied Financial Economics. Routledge, Taylor & Francis, London. Chap. 5, pp.122–144, DOI: 10.4324/9781315162737.
 - Cosma, A. and M. Lambert (2009). Diversification properties of Funds of Hedge Funds for Luxembourg’s marketplace. In: _Finance et Valeurs_. Ed. by A. Corhay, G. Hubner, and A. Muller. Les Editions de l’Université de Liège. pp. 237–255. ISBN 9782874561054
 
-<div style="page-break-before: always;"></div>
 
-### Other Publications and Articles for General Public
+### Articles for General Public
 
 Cosma, A. Algorithmes et marchés d'options, D’Lëtzebuerger Land, January 3, 2014.
 
