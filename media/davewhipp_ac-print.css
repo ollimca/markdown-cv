@@ -74,7 +74,7 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #666;
 }
 
 p code {
@@ -150,7 +150,7 @@ h2 + ul {
 h3 {
 	font-size: 1em;
 	line-height: 1.7em;
-	color: #ccc;
+	color: #555;
 	text-align: right;
 	/* Optical alignment against bold body text */
 	padding-top: 0.05em;

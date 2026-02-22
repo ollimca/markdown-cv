@@ -1,0 +1,12 @@
+{
+  "name": "markdown-cv",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Local tooling for PDF export",
+  "scripts": {
+    "print:pdf": "node scripts/print_pdf.js _site/index.html AntonioCosmaCV-$(date +%Y-%m-%d).pdf"
+  },
+  "dependencies": {
+    "puppeteer-core": "^23.0.0"
+  }
+}
